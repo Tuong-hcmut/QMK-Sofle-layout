@@ -66,7 +66,7 @@
       "KC_RSFT",
       "KC_BSPC",
       "MO(2)",
-      "TO(3)"
+      "MO(3)"
     ],
     [
       "KC_ESC",
@@ -83,7 +83,7 @@
       "KC_GRV",
       "KC_TAB",
       "KC_Q",
-      "KC_W",
+      "KC_TRNS",
       "KC_F",
       "KC_P",
       "KC_G",
@@ -128,7 +128,7 @@
       "KC_RSFT",
       "KC_BSPC",
       "MO(2)",
-      "TO(3)"
+      "MO(3)"
     ],
     [
       "KC_TRNS",
@@ -241,7 +241,7 @@
       "KC_TRNS",
       "KC_TRNS",
       "KC_TRNS",
-      "KC_TRNS",
+      "TO(3)",
       "KC_TRNS",
       "KC_TRNS",
       "KC_TRNS",
@@ -268,8 +268,8 @@
       "KC_NO",
       "KC_NO",
       "KC_NO",
-      "KC_NO",
-      "KC_NO",
+      "DF(0)",
+      "DF(1)",
       "KC_NO",
       "KC_NO",
       "KC_NO",
